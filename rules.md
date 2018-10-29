@@ -20,7 +20,8 @@ adequately. Follow up can be done if tasks are deemed necessary to be reevaluate
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+We will openly discuss any difficulties we come across on discord, and brainstorm different ways 
+of overcoming that difficulty and share resources that may help. 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
