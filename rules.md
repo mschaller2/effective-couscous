@@ -25,7 +25,8 @@ of overcoming that difficulty and share resources that may help.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+All members must attend team meetings, and complete assigned parts of the assignment. If members have
+difficulties completing the assignment by the deadline, they must notify the rest of the team.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
