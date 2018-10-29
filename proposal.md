@@ -32,6 +32,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+College students have a hard time budgeting, but also seem to have the most expansive and maybe expensive appetites at times. There’s a lot of cheap options around campus, but if you go out to eat too much, it can add up quickly; on the other hand, if you don’t go out often, it can still be expensive to go out to a fancy place even once in a while. We thought about solving this problem by creating a program that can keep track of both your budget as well as storing different restaurants and their prices. Each restaurant could have an associated average price, you could change the cost based on how many people are eating there, and you could also have a balance-sheet of sorts that keeps track of recent ins and outs of a given amount of money. 
+Some testing would include making sure that the average budget estimates are appropriately calculated, that the data is being accessed with the proper efficiency, that the restaurant structure is behaving properly, and that the User class is keeping track of all of its respective data. 
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
@@ -52,6 +55,10 @@ Describe at a high level a program that could solve that problem.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+Types include a Restaurant class and a User class primarily. Using two classes would keep things simple and most of the data should fit in these classes, especially since a lot of the sample output would be based on simple calculations based on the data at hand.
+Restaurant class: Stores location, average price of a meal
+User class: stores financial information (current amt, a few recent transactions?) 
+A way to retrieve this data could be using a custom hash table that stores Restaurants and Users, since that way, information could be interacted with quickly.
 
 
 Name each interface or class and briefly describe its function or purpose.
