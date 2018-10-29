@@ -51,14 +51,21 @@ This is just a few examples of output, which could be paired with images relatin
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+The data required for input would be any number of restaurants that the user wants relevant to their lifestyle/budget, the amount of money they start with, add, or get removed (based on the chosen restaurant). 
+	Examples:
+	Select Restaurant (from GUI): (chosen with click)
+	Add/Deduct Money: (button)
+	Calculate Average Cost Est: (select between 1 and 12 months to keep it simple)
 
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+We imagine a simple GUI that includes buttons to add restaurants, money, etc as described in the input, as well as images that correspond to calculated output, also as described earlier. If we were really feeling fancy, we could add an overview of campus area/State St as the underlying image of the GUI, where you could add things based on their real life locations. 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+Name each interface or class and briefly describe its function or purpose.
 
 Types include a Restaurant class and a User class primarily. Using two classes would keep things simple and most of the data should fit in these classes, especially since a lot of the sample output would be based on simple calculations based on the data at hand.
 Restaurant class: Stores location, average price of a meal
@@ -66,7 +73,7 @@ User class: stores financial information (current amt, a few recent transactions
 A way to retrieve this data could be using a custom hash table that stores Restaurants and Users, since that way, information could be interacted with quickly.
 
 
-Name each interface or class and briefly describe its function or purpose.
+
 
 
 ## Edit and Submit this file and any figures referenced by this document.
