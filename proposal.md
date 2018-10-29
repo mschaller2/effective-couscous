@@ -46,6 +46,11 @@ Some testing would include making sure that the average budget estimates are app
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+The data required for input would be any number of restaurants that the user wants relevant to their lifestyle/budget, the amount of money they start with, add, or get removed (based on the chosen restaurant). 
+	Examples:
+	Select Restaurant (from GUI): (chosen with click)
+	Add/Deduct Money: (button)
+	Calculate Average Cost Est: (select between 1 and 12 months to keep it simple)
 
 
 
