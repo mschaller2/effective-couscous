@@ -51,6 +51,7 @@ Some testing would include making sure that the average budget estimates are app
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+We imagine a simple GUI that includes buttons to add restaurants, money, etc as described in the input, as well as images that correspond to calculated output, also as described earlier. If we were really feeling fancy, we could add an overview of campus area/State St as the underlying image of the GUI, where you could add things based on their real life locations. 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
