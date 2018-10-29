@@ -9,11 +9,14 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+We will assign tasks based on initial interest and self-described capabilities, and we can 
+reassign tasks if any member decides that a different task would be more apt for their work.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+We will communicate with email and discord about the progress of task completion, and we 
+can also keep an eye on the github repository to make sure that things are being updated 
+adequately. Follow up can be done if tasks are deemed necessary to be reevaluated. 
 
 
 ## How will will communicate difficulties with a task assigned to us
