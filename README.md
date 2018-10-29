@@ -10,7 +10,7 @@
        * GitHub username 1:mschaller2       name 1: Mitchell Schaller
        * GitHub username 2:kittytang94       name 2: Lucy Tang
        * GitHub username 3:timothycheung1       name 3: Timothy Cheung
-       * GitHub username 4:       name 4:
+       * GitHub username 4: jwpolk2       name 4: Joseph Polk
        * GitHub username 5:       name 5:
    * When did you complete this exercise? Sunday, October 28 2018
    * How long did it take your team to complete this exercise? A bit more than one hour.
